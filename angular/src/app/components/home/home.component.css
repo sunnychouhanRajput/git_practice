@@ -1,0 +1,7 @@
+.homePage{
+    margin:20px auto;
+}
+.nav>li>a.active{
+    text-decoration: none;
+    background-color: #eee;
+}
